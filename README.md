@@ -85,12 +85,9 @@
 <p>But he is sometimes puzzled and acutely distressed, in body at least, by the results of certain of his actions. For example, if he wanders outside the compound of his home, and, coming upon some naked children playing in the street, he, too, divests himself of his ‘gown’ and joins them, he is punished if detected. He cannot understand why the children of fisherfolk may play unclothed while he must be clothed when he is at play. Similarly, if, after having observed the manner in which some grown-ups in frock-coats sometimes sweep the skirts of their long upper garment behind them, he too slits his ‘gown’ in front, sweeps its skirts behind him and struts about with the air of a frock-coated grown-up, he is soundly thrashed, he fails to see why. All this merely show that Kwesi is an ordinary boy, and sees in clothing nothing other than a mark of importance; so that where he forgets everything but that he is a boy, he behaves exactly like other boys, no matter of what degree. Whence the reflective would conclude that the unsophisticated child is oftentimes a truer judge of the intrinsic worth of things than the average grown-up.</p>	 
 
  
+<h2>Boyhood </h2>
 
- 
-
-Boyhood 
-
- School  
+ <h3>School</h3>  
 
 <p>Kwesi Onyidzin, whose European name is Archibald Edward Cudjoe, has at length been told that he is becoming a nuisance at home, and that, since he is now getting out of the baby stage, he must go to school. So far, all he knows about school is briefly summed up in a bit of verse which he has picked up from his elder brothers or cousins; for sometimes, for example, on Sundays, when they are all in their warm clothes and creaking boots waiting for ‘first bell’ for chapel, they stalk about to the rhythm of that bit of verse: </p>
 
@@ -116,11 +113,10 @@ Abei na owo m’!’
 
  
 
- Boyhood  
+ <h2>Boyhood </h2> 
 
-Schoolmates and Teachers  
-
--------------------------------------------------------  
+<h3>Schoolmates and Teachers </h3> 
+ 
 
 <p>Kwesi Onyidzin is not a stupid boy, but he is fond of play. So, for a long time he has avoided quitting the freedom and hilariousness of the A B C class for the constraint and sedateness of the higher classes. His method is simple: whenever, because he knows the letters of the alphabet by their names, he is promoted to the S-o, so’ class, which breaks off at noon and at four in the afternoon, he goes back to the A B C class, which breaks off an hour earlier. He continues this until the teacher gets tired of his tricks and reports him to the head of the infant department. He is punished; and thereafter he regularly passes through the classes. In time he leaves the infant school, and passes into the greater seriousness of the lower half of the senior school. </p> 
 
@@ -136,9 +132,9 @@ Schoolmates and Teachers
 
 <p>However, the day arrives on which the inspector is to examine the school. There is all the excitement of putting on one’s Sunday clothes, in this case without the hateful stockings and boots; of bolting one’s breakfast; of rushing to the sea-shore to wash one’s slate and rinse it with fresh water carefully carried in a bottle; of the arrival at the school. The school-bell sounds altogether unnerving: it fills you with such tremors, especially as ‘second-bell nears its end. Then comes the lining up outside the school, the marching into the classes, and, above all, the deadly silence that falls on the whole school after prayers, a silence broken only by the tread of the boots of the reverend manager and the headmaster, or by the caustic comments of a sarcastic teacher on the fidgeting of certain boys. Suddenly every boy's eyes turn towards the windows on one side of the school; a white man passes to the entrance to the higher department of the senior school; the first boy of the school shouts ‘Obeisance!’ and everybody gets up with palpitating heart: the inspector is in the school. The ordeal commences: one has to go through it. There is a strong mental tension while it lasts. Next day it is all over. The inspector listens to the singing of the assembled school; he smiles, says unintelligible things to the reverend manager and the headmaster, and departs. Kwesi breathes a sigh of relief, but wonders whether he has failed or passed. </p> 
 
-Boyhood  
+<h2>Boyhood</h2>  
 
-Amusements, Forbidden and Sanctioned  
+<h3>Amusements, Forbidden and Sanctioned</h3>  
 
 <p>Kwesi does not often play truant. Discipline at home is so strict, and punishment so sure, that he is very seldom indeed tempted to infringe the one and thereby deserve the other. He has sometimes formed one of the parties sent to bring absentee boys back to school. He has enjoyed chasing those truants, and has enthusiastically taken part in the melees that followed their capture; but he has never quite relished watching the fate of the boys thus captured when they are brought back to school, unless, of course, they are boys who delight in teasing him. In his own case, however, such a thing has never happened, simply because he is a regular attendant. </p> 
 
@@ -155,12 +151,11 @@ Amusements, Forbidden and Sanctioned
 <p>Again, during the Christmas holidays, Kwesi goes date-gathering with his friends, walking long distances to bring home heavy bunches of the small dates that grow mostly by the sea-shore. But the spikes of the leaves are very sharp, and your hands swell so if one of them pierces your finger. So date-gathering requires a great deal of care. All in good time the bunches are cut. The boys come, home heavily laden with the dates, which they dip in the sea and put away for a few days till they become ripe. Then comes the pleasure of eating them. The dates are delightful: so thinks Kwesi; and every other ordinary boy thinks the same. </p>
 
 
-Boyhood  
+<h2>Boyhood </h2> 
 
-Chapel and Sunday School  
+<h3>Chapel and Sunday School </h3> 
 
---------------------------------------------------  
-
+ 
 <p>Chapel really implies choir-practice. As soon as he has managed to assimilate a fair proportion of English orthographical rules (with their inevitable and innumerable exceptions, of course) Kwesi Onyidzin is drafted into the choir. He feels highly honoured: to be in the choir has been an aspiration of his ever since he began to attend school. Now, he says to himself, the dream is realised; he is actually going to be among the envied boys and girls ranged on the two sides of the huge pipe-organ; perhaps he may be fortunate enough to be selected for the solo in the anthem which usually follows the prayer after the second hymn in the evening service! So Kwesi congratulates himself. </p> 
 
 <p>He is bidden to be in the chapel with the other choristers at certain times during each week. He appears, on the first day, long before everybody else, having been too excited when he arrived home from school that afternoon to worry his mother or his grandmother for the usual dole of dokun na ’nam. He looks, with a species of awe, upon the older boys who ‘sing bass,’ and who seem very inaccessible as companions. The other small choristers, as they come up, fraternise with him, and he begins to feel that choristers are just ordinary boys who merely happen to be in the choir: he feels he will be quite at his ease when he has attended choir-practice often enough.  </p>
@@ -179,11 +174,9 @@ Chapel and Sunday School
 
 <p>But, just as every boy is glad when the last ‘Amen’ is said in chapel, because they can then troop out into the freer atmosphere of home, so do all the young people rejoice when the last ‘Amen’ is said at Sunday school, when they may troop out in boisterous groups and walk to the pond at the end of the town, or else call on relations and friends. Kwesi, now of the rank of chorister, comports himself with fitting dignity, and after ‘Sanday’ is over, is very much concerned to be punctual at evening service, whilst most of the other boys and girls of his age who are not choristers are not troubled much as to attendance at evening service in the chapel. </p> 
 
-Boyhood 
+<h2>Boyhood</h2> 
 
- Festivals	 
-
- 
+ <h3>Festivals</h3>	 
 
 <p>Of national festivals there is only one beside the Christian festivals of Easter and Christmas that Kwesi Qnyidzin is allowed to celebrate. That solitary exception is the Bakatue festival, celebrated at Edna. Of Ahuba he knew nothing at the time of which we write; and even if he had been in districts where the great Fanti festival was celebrated, he would probably have been told that it was heating, because it was part of the national life, and was therefore bad. At any rate, he has often seen fetish priests perform, but has always been told that sort of thing is all nonsense and not worthy of the attention of a young fellow in active process of being Christianised and Anglicised. Again, he has seen the annual observances kept by the companies during the Ahuba period, having taken much interest in the bonfires lit by the Asafu on successive nights; and he has been very much impressed by the many pretty customs that constitute the celebrations held during that period. But these, too he has been taught to regard as mere barbaric display, worthy only to be considered an amusing survival of savage times. Therefore, although Kwesi is now about 12 years old. and he knows at least as much of English history and geography as the average English boy, he knows nothing about the great Ahuba festival, and cannot say in what parts of the country the custom is still maintained.</p>  
 
@@ -199,9 +192,9 @@ Boyhood
 
 <p>Christmas Day arrives. New clothes have to be worn for chapel. Then follows a week of merrymaking, of going to see the sports, of calling round on the relations of friends for Christmas boxes, of going every afternoon, in one’s best clothes, to the end of the town for romps. New Year’s Eve. is celebrated exactly as Christmas Eve. On the afternoon of New Year’s Day all the young people assemble by the pond at the end of the town to wish Christmas good-bye with shouts and the throwing about of anything that is handy. Kwesi helps to give Christmas a hearty send-off, shouting with the loudest and throwing with the farthest in reach. </p> 
 
-Boyhood  
+<h2>Boyhood</h2>  
 
-Boyhood's Dreams  
+<h3>Boyhood's Dreams </h3> 
 
  <p>Kwesi Onyidzin’s dreams grow as he grows. He has now long passed the stage when the most outstanding characteristic of the state of being grown up was, to his mind, freedom to eat what one liked when and as much as one chose. In those days his most important day-dreams consisted in fancying himself in the days when he would be grown up and be able to eat as much as he liked in the way of F sweets and other tasty things. In those days. too. when he was 1 thwarted in any project or compelled to do what he did not wish to do. he longed to be grown-up so as to be free from the annoying restrictions imposed by relatives and other adults. Later, when upset at school, he would long for the time when he would be a teacher, so as to wield the cane on those who would then occupy his present position, preferably the children of his present teachers. But now Kwesi's dreams are seldom expressive of his resentment at parental or other control. Now he feels that manhood consists in doing some sort of work; but his ideal in the matter of work is not fixed. His dreams, therefore, express his longings rather than his resentment: they are positive rather than negative.</p>  
 
@@ -211,13 +204,11 @@ Boyhood's Dreams
 
  
 
-Part II  
+<h2>Part II </h2> 
 
-Youthhood  
+<h3>Youthhood  </h3>
 
-The High School  
-
-
+<h4>The High School </h4> 
 
 <p>The High School stands very high in the estimation of Kwesi and his companions. In the first place, boys from the High School, especially the older boys, often affect to be incapable of speaking any language other than English: this, to the boys of the Low School, is a characteristic very much to be desired. In the second place, no boys in the national costume are allowed to attend the High School unless they first adopt European clothing, and some of the older boys of that school attend school collared and booted. In the third place, the High School boys have a part of the chapel allotted solely to them, and are very imposing as they troop in their Sunday best into the honoured seats set apart for them. h these operate on Kwesi’s mind to create in him a strong desire to attend the High School He begins to worry his people about High School. He says in the Low School he is in Standard III, and can read even the Standard VI reading-book without making many mistakes. He says he knows much history and geography; at dictation he seldom has any words to write over and over again after correction by the teacher; at arithmetic he can do compound division with ease. He feels quite qualified to brave the legendary terrors of High School lessons. </p> 
 
@@ -235,16 +226,13 @@ The High School
 
  
 
-Youthhood 
+<h2>Youthhood</h2> 
 
- Struggles with the English Language  
+<h3> Struggles with the English Language </h3> 
 
 <p>Although the general impression is that in the High School the teaching is all conducted in English, Kwesi finds that this is true only of the highest class in the school. In the other classes, fortunately for our young friend and for those like him, all the necessary explanations during lessons are in the vernacular. On the whole, however, Kwesi finds that there is a strain on his English-speaking efforts. In the Low School such efforts had been voluntary, there being no 1 constraint in that regard except when occasionally a boy was sent with a message from one teacher to another, with special instructions to deliver the message in English. In such cases, the result was generally a literal translation, to the best of the boy’s ability, of the equivalent Fanti expression - passable as intelligible English, especially to a teacher, who knows more of the English language, and is, moreover, himself Fanti. But now, as a High School boy, he has to do exercises in English composition, and in certain other cases he has to give replies in English to questions put to him in English, for example, by visitors to the school. </p> 
 
 <p>At first this is very difficult He has learnt more rules of English grammar in the Low School than the average English boy of his age. </p>
-
-
- 
 
 <p>He can recite each rule accurately, without understanding what the rule means, except where it had been found necessary by the teacher to explain it when it was being learnt, or where such explanation was necessary for purposes application, as at analysis and 1 parsing Similarly, he can recite chapters out of the simple book of English history which he had used when in the Low School, and also portions of geography. The difficulty had been very pronounced at arithmetic, especially in the working of problems; for unless in such cases the teacher made the problem intelligible by translating it. the poor boys could only make guesses at its solution. Now Kwesi encounters the same difficulties every day. and very often, whereas formerly he had faced them only at certain times during each week He cannot understand why the teacher laughed when one of the boys in his class said, in answer to a question at geography, that Rugby was noted for the manufacture of public schools. Euclid the difficulty becomes peculiarly painful: the definitions, postulates, and axioms are easy, because one can always rattle off what one has learnt when a direct question is put in regard to it. Kwesi can tell you what is a parallelogram; he can state what is meant by hypothesis. construction, proof, conclusion, corollary, etc.; but when, after reciting the enunciation of a particular proposition, he is required to proceed with the proposition itself, he cannot make any progress without assistance given in the vernacular, his natural intelligence I is always beclouded whenever at such lessons as Euclid the whole lesson has to proceed in English, unless the whole lesson can be ‘-recited without intermission. He is in the High School for some time before he can realise that English composition is merely the application of the rules of English grammar which he has learnt. Grammar has always meant to him a book full of numbered rules in bold type, with innumerable others in smaller type, many of which latter are prefixed with the cryptic marks Obs. or Exc. Such words as orthography and etymology, polysyllable, monosyllable, always amuse him. just as at geography words such as promontory, archipelago, peninsula, amuse him. But exercises in English composition are very frequent. Soon our friend can manage simple sentences. In time he thoroughly understands the use of auxiliary verbs, after which he finds he can express himself fairly well in English. His idiom is unavoidably Fanti as yet. although his words are English: these remain so except where he is taught the proper English expression in each case. In good time he combines the simple sentences and makes an effort at continuous narrative; but he worries over the fact that he is always reprehensible on the score of using too often the conjunctions and' and ‘so.’ He believes he has advanced considerably when he has learnt the rules of punctuation and attained a fair percentage of correctness in the working of punctuation exercises. He advances still further in the analysis of sentences, and learns that the best test of soundness in the application of the rules of grammar in composition is the analysis of the sentences which represent such application.</p>  
 
@@ -254,9 +242,9 @@ Youthhood
 
  
 
-Youthhood  
+<h2>Youthhood </h2> 
 
-Last Days at School  
+<h3>Last Days at School </h3> 
 
 <p>Since we last noticed him as a new boy in the High School, struggling manfully with the manifold duties incidental to High School life in a British sphere of influence, Kwesi Onyidzin, alias Anglice Edward Cudjoe, has altered considerably. In intellectual development he has secured all the assistance that the educational establishments in his country can render. In his course at the High School he has passed through many managements, beginning with that of the headmaster of the school at the time he joined, passing to that of another headmaster, then to that of a white headmaster with the title of principal, and ending under that of another white principal. His progress, however, has not been smooth, owing to the vicissitudes of High School life in his particular part of West Africa; for each new management has ended a period of interruption in the even tenor of the boy's studies. With his first headmaster he seldom came into direct contact in class, except during examinations; but through to second headmaster he began, say. to grasp the principles of Euclid and commenced to work riders; under his first white principal he made an acquaintance, say. with mechanics and chemistry; under his second principal he started Latin and French composition on systematic lines thus he owes some definite part of his High School proficiency to some definite management, under which he received systematic instruction in some new subject, or entered upon a more advanced study of some subject he had already begun. Thus did he reach the stage at which we now find him - the finished product of  the Low and High Schools, perhaps a teacher in the High School for  the last year or two. </p> 
 
@@ -280,9 +268,9 @@ Last Days at School
 
  
 
- Youthhood  
+ <h2>Youthhood </h2> 
 
-Off to England  
+<h3>Off to England </h3> 
 
  <p>Kwesi Onyidzin has been informed that he will go to England by a boat leaving the port on a certain day. From the moment he receives the information his joy has known no bounds. People outside his circle of relatives, many of whom have held the belief that the boy will be sent to England, now know that their belief was well based Kwesi is an object of greater interest than he has been, especially among the younger people. Boss with no prospect of being sent to England, who have accordingly set their hearts on becoming clerks Civil Servants, ministers, dispensers, or surveyors, envy him. Some of the more imaginative boys construct his future when, having returned from England a fully qualified professional man. Kwesi will maintain the precedents of high life established by those who before him had returned from studying in England; the more reflective wonder what addition to that mass of precedent Kwesi will make as that which he himself introduces from Europe. </p> 
 
@@ -302,9 +290,9 @@ Off to England
 
  
 
-Youthhood  
+<h2>Youthhood  </h2>
 
-A Stranger in a Strange Land  
+<h3>A Stranger in a Strange Land  </h3>
  
 
 <p>With the assistance of a kindly disposed fellow passenger Kwesi gets over the necessary preliminary encounter with Customs officers, and he and the other passengers are in time entrained for London. This is Kwesi s first experience of travelling in trains, and he thorough enjoys the ride The view from the window keeps him entertained the scenery is delightful - all the country seems laid out in small well-marked plots. He passes some tame woods and sees some ancient farms. When occasionally he passes one of the pretty toy- house like structures, he wonders whether all the houses in the great London of which he has heard and read so much are as pretty. He takes lunch in the tram the restaurant-car is a new idea to him Soon the train comes to a standstill at a huge gloomy station. He looks out of the window at the crowds on the platforms, few standing still, and fewer sitting. He sees the busy porters, some carrying luggage on their shoulders, others pushing trucks of luggage, the vendors of luncheon-baskets, and the newsboys. There is novelty everywhere, but the gloom of the station depresses him: he is happy ' when the train moves out.  </p>
@@ -315,13 +303,13 @@ A Stranger in a Strange Land
 
  
 
-When in Rome  
+<h3>When in Rome </h3> 
 
 <p>The next shock is imparted by the astounding information that he must pay each time he has a bath. He does not mind paying for what he has been brought up to consider an absolute necessity. He soon enough finds out that the bath is not customary, the substitute for it being what is called the wash ' But the wash' does not satisfy him and he shrewdly reflects that there are cases whore it is folly to do in Rome what the Romans do. So he clings to his esaw and buredziba. and pays for his daily bath. But the esaw and buredziba are a source of much worry to the landlady: she thinks they will choke the pipes It takes Kwesi some time to convince the good lady that the esaw and buredziba do not wear away so quickly as she thinks. The next trouble is with the servant, who is always throwing the bathing materials away. In the end he has to talk to the landlady in order to ensure the required immunity for his precious esaw and buredziba. It does not take him long And out that he is regarded as a savage, even by the starving unemployable who asks him for alms.  Amusing questions are often put to him as to whether he wore clothes before he came to England; whether it was safe for white men to go to his country since the climate was unsuitable to civilised people; whether wild animals wandered at largo in the streets of his native town. He concludes that the people of the class to which his landlady belongs are. to say the least, poorly informed as to the peoples of other countries, especially of those parts known as The Colonies </p>
 
  
 
-Climatic Vagaries  
+<h3>Climatic Vagaries </h3> 
 
 <p>But that which most disturbs Kwesi s composure is the indescribable weather. It is spring, and he is much struck with the appearance of the bare branches of the trees just beginning to put forth buds. The buds are so fresh as contrasted with the blackened trunks and branches of the trees themselves. He is much depressed by the unceasing rain, the wonderfully muddy streets, and the cold. It seems to him surprising that there should be so much mud in paved streets; but he cannot blind his eyes to the fact that the mud is there. He hardly ever sees the sun. and the houses have all grimy exteriors. Only in the interiors of certain places of amusement and of some houses which he has visited is he impressed by any decorative ability possessed by the English and lacking in his own people. But the greatest surprise is that when the summer does come the heat is intolerable, even to him. who came from the tropics! </p>
 
@@ -329,7 +317,7 @@ Climatic Vagaries
 
  
 
-Youthhood Studies, Professional and Otherwise  
+<h3>Youthhood Studies, Professional and Otherwise </h3> 
 
 <p>For the next three years- at least. Kwesi is engaged in qualify^ himself for his professional career He possesses no mean ability fa study; therefore his professional course has no terrors for him: iif knows he will finish in time. But the professional is such a small of the more general training in all sorts of other pursuits and accomplishments which he receives during his sojourn in England. H* receives no direct instruction except as regards professional subjects the variegated experience he gains during his stay in England is mostly of his own garner! course he is self-taught  - in these matters outside his profession le groundwork of these by-studies is tb r belief in the superiority of things European to things non-European a belief he brought with him to England. It is true that his old ideas0 European superiority have been much disturbed since he began see England with his own eyes; but if his friends, even those who been similarly disillusioned, have begun to accept certain disconcerting matters as incidental to civilisation, and. instead of arguing from the unpleasantness of such incidents to the inherent unwholesomeness of that to which they are incidental, they conclude somewhat perversely that whoever cannot explain away such unpleasantness not civilised. This view, moreover, is much strengthened by the remarks let fall by certain friends belonging to classes reckoned a5 high, who, speaking from their very insular standpoint, by reason of their pardonable and exclusive appreciation of things English as against things non-English. and of things European as against things European as against things non-European, have given Kwesi and his friends to understand that those incidents of civilised life, at first sight undesirable to those visiting Europe from Africa and Asia, are hallmarks of refinement.  </p>
 
@@ -337,7 +325,7 @@ Youthhood Studies, Professional and Otherwise
 
  
 
-Problems in the White Man's Land  
+<h3>Problems in the White Man's Land </h3> 
 
 <p>Nevertheless there are certain things against which Kwesi’s soul rebels. He is convinced more or less that the only way of escaping the domination of aliens is by acquiring the refined tastes of the dominating aliens; yet he does not feel quite satisfied about these same tastes. In the first place, he soon begins to distinguish the various distinct grades of society in England. For example, it does not take him long to observe that teaching in Sunday-schools in the  slums of London lays one open to all sorts of unwelcome attention amounting to patronage by civilised people very low in the social scale. He finds out, for example, that religious enthusiasm is a form of low-class emotion in England, and that the lowest orders are the most religious. The Cockney accent gets on his nerves, and he flies Irom class-meetings where he receives religious ministration in concert with housemaids and other domestics. He continues his active connection with the church of which he was baptised a member, even to the extent of going out with mission bands and preaching in doss-houses in degraded localities, till the unforgettably plebeian stamp of some of his religious associates drives him out of their company. In the second place, the Fanti ideal of womanhood which somehow has taken root in his soul makes it impossible for him to replace it with the English ideal of womanhood. Kwesi finds that in spite of the attractiveness of their get-up and their other allurements, white girls are to him no more than a part of the white man’s land, to be looked at, admired, talked with where necessary, and forgotten when the time comes for him to depart from the white s man’s land. Kwesi possesses that unique African pride which is seldom appreciable by non-Africans, often miscalled insolence by white men.  </p>
 
@@ -349,7 +337,7 @@ Lessons in the deportment proper to a refined man are taken by Kwesi’s friends
 
 <p>For gather Those who have no access to the society of the highest content themselves with studying the manoeuvres of the nouveau riches Suburban respectability is accepted by some as a very high standard of refined respectability. They eke out their defective k information or observation as to the habits of the real aristocracy of England by studying fashionable periodicals and novels avowed! representative of life in the best circles. Those with a taste for billiards and racing know what haunts to frequent. Dances pronounced flounced to be attended by people of standing are attended. Suburban garden-parties and provincial gatherings of many sorts are v much enjoyed The fashionable ones among his friends amaze Kwesi by the ease with which they keep up the crease on their trousers, the equanimity with which they endure patent leather boots narrow in their toe and their partiality for morning coats and top-hats. Those athletically inclined are members of clubs and sport blazers and ribbons of many hues tennis, rowing, fencing, cricket and football each has its votaries There are some who are genuinely musical and who frequent the opera and attend musical recitals. The majority are attracted by the glitter and the clatter of music-halls of all grades Some even follow the high game of politics and are keen partisans, discussing party issues with the acumen of Members of Parliament The truly intellectual ones have no time to waste over trifles, and are accordingly unpopular, except when they win high distinctions a! examinations, on which occasions they are acclaimed credits to the race.  </p>
 
-Time to Go  
+<h3>Time to Go  </h3>
 
 <p> Kwesi is not completely swept along by the tide of what his compatriots are doing: he discriminates with great acuteness as to whom and what to copy. He feels that his reasoning is at fault because although he thinks he ought to copy what he deems desirable he leaves out a great deal which some influence within him, now active but long dormant, prevents him from accepting. He feels that those whose movements are in part approved by him lack certain qualities which he values, and yet he is constrained to admit that they are civilised, so that he reluctantly regards those qualities which he values as somehow to be kept in abeyance if he is to attain the standard of civilisation his training requires him to reach.  </p>
 
@@ -357,11 +345,11 @@ Time to Go
 
  
 
-   Part III  
+<h2>Part III </h2> 
 
-Manhood 
+<h3>Manhood </h3>
 
-The Return Home  
+<h4>The Return Home </h4> 
 
  <p>During the perfect isolation which he has unintentionally secured by being the only black first-class passenger on the liner that Is taking him home, Kwesi reflects upon his life in England the civilised man he has observed, speaks of his life as if it had not a very seamy side otherwise he has little fault to find with the well-bred Englishman who very seldom thinks, or shows that he thinks, that courtesy from a black man means consciousness of inferiority on the part of such black man or that courtesy to a black man involves condescension on his own part. But many of the Englishmen who are his fellow passengers are such that he is quite glad they think themselves superior and show their superiority by keeping sway from him. He is grappling all along with a problem he cannot yet solve, and he wants all his time for that problem he wants to know why although he feels bound to aid any effort to establish civilised life among his own people, there are many aspects of such civilised that does not appeal to him. He has read much of the barbarous practices of heathens. Before he left home he had often been told that if the white man had not introduced his most beneficent rule into Africa, he and all his people would be suffering under the most barbaric political mismanagement.  What has seen of order and government in England leads him to think that only under similar order and government can his people secure happiness and content does not feel in his heart of hearts that he can conscientiously support any scheme which designs to substitute in toto the civilised life for the ways of life traditional to his people. </p>  
 
@@ -375,9 +363,9 @@ The Return Home
 
  
 
- Manhood  
+<h2> Manhood </h2> 
 
-The Conflict of Duties 
+<h3>The Conflict of Duties </h3>
 
 <p> Since his return Kwesi has found himself constrained to sound the maxim, ‘The end justifies the means.’ He feels that if he is to live at peace with those most dear to him he must exercise a great deal of diplomacy. In his own family circle his undisguised partiality for the Fanti mode of doing everything is causing some uneasiness. For example, apparently he wears European clothes with reluctance: more than once he has received visitors whilst in the national clothes, to the politely veiled astonishment of the visitors themselves and to the discomfort of his relatives; he would even have gone in the Native dress to pay a visit if the womenfolk of his family had not succeeded in dissuading him from thus exposing himself and them to ridicule. On the point of the national mode of clothing therefore the family have had to intimate to him their views: that no one will take any serious objection to his wearing such garb within the privacy of the family circle itself, if he is so whimsical as to prefer that mode of clothing; that if he seeks to go out in the national costume such a thing may conceivably be permitted at night; that he ought not to forget that nobody before him has ever done such a thing as he evidently proposes to do, a course of conduct which, if he persists in it, will assuredly attach to himself the imputation of lunacy, and to them that of incapacity to control one of their children. At length they ask him if he is going to practise his profession garbed in the Native manner, implying by their tone that such an argument is unanswerable. He disconcerts them by retorting that if. owing to the precedents established by blind imitators, the members of his profession feel bound to clothe themselves as if they were practising in England, and it is deemed absolutely incumbent on every new practitioner to clothe himself In such a manner, he will consider such absurdly unsuitable clothing a sort of professional uniform; that if now it is proposed to keep him literally an Anglo-Fanti, Fanti as to his internals and English as to his externals, and such a conjunction pleases them, who are responsible for his having lived up to this time to become such a double person, then he will fall in with their wishes. </p> 
 
@@ -391,9 +379,9 @@ The Conflict of Duties
 
  
 
-Manhood  
+<h2>Manhood </h2> 
 
-Marriage. 
+<h3>Marriage. </h3>
 
 <p>One event of the future, inevitable, but allowing of being postponed by the exercise of a certain amount of strategy and by good fortune, Kwesi dreads with a wholesome fear. He knows that since he is now settled in life and is slowly building up a practice to support himself, there will come a day when a deputation of members of the family will ask him when he intends to marry He can amply justify his apparently unreasonable dread of a future certainty about which every other young man of his day has ecstatic dreams. Since he returned he has observed that the Fanti ideal of womanhood is not reflected in the young ladies of his age. In its place is a nondescript, ideal, naithgr, Fanti nor European, but supposed to be European, which gives him good cause for believing that no girl of his day will be likely to help him to make a stand against the mass of stupid precedent which every day threatens the happiness of his life. On the contrary, he is convinced that when he does marry, as he will have to, that mass of precedent will become heavier in weight as a burden on his life. Everybody, young and old, is of the opinion that he is a young man with a very perverted heart, this he knows well by now. Everybody who cares for him therefore feels it to be his or her duty to correct that perversion. It will be considered a sacred duty, conceived as such, if not by herself, at any rate with the assistance of the minister, for the girl he will select, or whom his family will select for him in the event of his not selecting one approved, to set to work to bring him back to the point at which everybody expected him to be when he returned from England. They remember that he used to be one of those who most ardently sought to Europeanise themselves. He himself remembers those days of misguidedness and folly, and is ashamed of what he then did under the impressions that ruled his conduct on those unreflective days. In a measure, then, he has himself contributed to the woes of his present position; in a measure he has helped to make the bed upon which he will in all probability have to lie: if he had not shown promise of becoming a leader of groundless Europeanism he would not be now held to his promise. The day comes on which the dreaded point is raised. He is approached on the question of his marriage. His people tell him that he is long past the marrying age of these modern times, and that he is in a position to marry. They want therefore to know why he delays. Is it because he cannot decide which of the many eligible frock ladies of his acquaintance to choose? If that is the difficulty they will assist him, they assure him. Why not marry such and such a young lady? Her people are quite respectable in every way. Or such and such another young lady? Or does he prefer one trained in England? Kwesi tells them that marriage is a more serious matter to him than they can imagine; therefore he will take time to consider the points they have raised They agree that it is a serious matter, and give him time in which to choose a young lady. </p>
 
@@ -401,9 +389,9 @@ Marriage.
 
 <p>He communicates his decision to the family. They ask for reasons. He tells them his reasons, but they do not accept them, they say he talks like a book, whilst they arc talking common sense. They try to help him out of what they think is the difficulty. They ask him whether he is reluctant to marry because he would much rather have a girl sent to England to be trained to become a suitable wife for him. He replies that if he marries at all he will not marry a girl trained in England. They say they will give him more time. In the meanwhile, it being noised about that he has refused to marry, it is rumoured all over the country that his real reason is that he has a white wife whom he secretly married in England. Even his family begin to accept the rumour as true, and they begin to regard him with suspicion. To allay their suspicion, which hurts him sorely, in f the end he decides to marry Esi Ansuadzi, alias Anglice, Elsie J Joshua, one of the frock ladies pointed out as most eligible. The family are glad The necessary preliminaries are completed. Kwesi is obliged to masquerade as a European bridegroom and lead a veiled and orange-blossomed bride from the altar - to a reception following on the farce in the chapel Refreshments are served round The guests wish the couple Awarso. shako them by the hand, and depart The families on both sides are happy; the people of the town are gratified henceforth Kwesi Onyidzin and Esi Ansuadzi are "known as Mr and Mrs Edward Cudjoe. </p>
 
- Manhood 
+ <h2>Manhood </h2>
 
- Wedded Bliss  
+ <h3>Wedded Bliss </h3> 
 
 <p>The novelty of their situation has worn off the bride and bridegroom. But whereas our friend Kwesi. before his marriage, had had comparative freedom from the trammels of Europeanistic precedent, now, as a married man his very private life is invaded by a new swarm of musts’. In a sense he is sorry for his wife, who really enjoys occupying the position of wife to a professional man; for against her he has felt some sort of anger ever since the masquerade in the chapel and al the reception He knows the girl is not much to blame, since it is of the essence of young femininity to be fond of display. Further, he knows that just as up to the time he really began to think he was not altogether responsible for his having grown up into a snob, so is this poor girl he has married blameless as regards the stupid convention that has intensified her prevailing characteristic as a girl. He feels that in justice the blame lies directly at the door of those who uphold the system that pronounces every non-Christian mode of life barbarous, and urges those who adopt it to discard their former mode of life and attempt the impossibility of assuming a new psychology. Therefore he decides that just as he has refrained from hurting too much the feelings of those whom he holds dearest, so now he must do his best not to wound the feelings of the unfortunate girl he has married. At the same time, he is certain he will be justified in remonstrating with his wife whenever she is giving way, against her better judgement, to the advice of mischief-makers.  </p>
 
@@ -411,17 +399,16 @@ Marriage.
 
 <p> Kwesi provides his wife with all that is necessary in his opinion to enable them to live in comfort. But the wife Is often in tears, since her husband always places matters in such a position by his fairness that if she does anything out of the way she soon enough wishes she had not done it Her friends begin to laugh at her and say that she might as well have married a clerk Many of the frock ladies and their ‘scholar’ swains say that she is being treated as if she had been married under the Native law. and that in submitting to-such treatment such is helping to belie her education or, true to his word, Kwesi has always refused to accompany her to any of the ‘society affairs at which the pleasure of the company of Mr and Mrs Edward Cudjoe’ is requested on printed or written cards He tells his wife, on such occasions, that she can go if she likes, that he finds it easier to work in the evenings than in the day and therefore must be excused from attending. He will not attend garden-parties and similar after- noon shows because he is expected to appear in European clothes. t and he has decided never to wear European clothes except for r purposes of professional practice and attendance at chapel on Sundays  </p>
 
-A Family Conference  
+<h3>A Family Conference </h3> 
 
 <p>Kwesi’s wife is unhappy, but she will not give in. She says it is due to her breeding and position to influence her husband to lead the life for which, in the eyes of the Europeanised people, he is fitted. Acting upon some very bad advice, she begins to invite friends to parties at her husband’s house. She tells him the first time, and he says he will be present at the gathering if he has time to spare. When the time comes, and her husband is still in his study, she sends repeated messages, till at last he sends the final reply that he has no time to spare and will not have for some hours. He seldom uses the drawing- room. and so the invasion does not directly disturb him; but since that first party at his house he takes the trouble to lock himself in his study at the time appointed by his persevering wife for other parties. </p> 
 
 <p>On such occasions, however, he finds he is too disturbed in mind to work. After a time his wife begins to prepare nothing but European meals for her husband. He protests on the first day and sends for some dokun and fried fish. He protests a second and third time. Then, on the fourth day, he sends a message to his mother that he would like her to prepare his meals for him. His mother receives the news with misgiving, for she suspects the reason for it. She hurries to her son, who places the whole matter before her. Since she is the mother of the husband she does not want to appear to be taking her son’s part. She therefore communicates the state of affairs to the family. Delegates from both families meet and, going thoroughly into the matter, decide that there is strictly no fault to find with the husband, but that the girl is to blame in taking it upon herself to do what she knew her husband did not like. The wife appeals to the A minister, who himself is European only in his religious ideas, but £ otherwise is a Fanti at heart; he supports the decision of the two families. They require her to apologise and make amends to her husband in the customary manner, since she is the party at fault. She refuses, saying that they have all got their heads full of savage ideas. The older members of her family tell her that sheds, fortunate in having been married under the English law, under which, they have heard, divorce is allowed only  in certain-very disgraceful cases: for, under the old Fanti law, by her refusal to abide by the decision of the two families, an equitable decision that will be upheld by any public tribunal, the Oman would be justified in declaring the marriage at an end. They therefore ask her to make amends for her faults or else return with them to their home. She says she is going to remain in her husband’s house; that she has a right under the English law to do so. They remind her that her husband’s house is not his house but belongs to his family, and since she has slighted that family by refusing to accept a decision in which they concurred, she cannot continue to remain there. Kwesi, who does not wish to distress anybody, is willing to forgive and forget if the girl will promise to behave an she should She will not promise. In the end the wife's family, whilst exonerating the husband, tell him that the best thing to be done is for them to take the wife away. He accepts the position: and. so far as the native mind is concerned, the marriage of Kwesi Onyidzin and Esi Ansuadzi. alias Anglice Mr and Mrs Edward Cudjoe is at an end. or at any rate suspended. </p>
 
- Manhood The Penalty 
+ <h3>Manhood The Penalty </h3>
 
-  
 
-<p>Kwesi’s troubles an- beginning to toll on bin) outwardly During his seven or eight year of professional practice the perpetual ordeal of his inner life, the constant struggle between affection and respect for a few. on the one hand, and duty to all. on the other hand, has seldom been suspected by the complacent people surrounding him. He has often thought that he should do his part of the duty lying upon all who have in any way helped to raise the structure of Europeanism. which has absolutely destroyed his peace of mind, to help also to pull down that structure in order to save future generations from such a life as he has been leading, but his thought has not yet been deep enough to enable him to accept the wider duty as of greater importance for the future than the narrower duty he owes to his relatives and elders But now all that has taken place within him is beginning to show its effect on his health He looks ill: his haggard expression is that of a much-worried man. of a man harassed by spirits from whom he has been seeking in vain to escape; yet. in good or in bad health, he has to keep up his position in the sphere of professional work. His family are distressed. They ask him if he is suffering from some secret malady. He says he is not. They make all sorts of suggestions and prescribe all sorts of remedies. In the end he asks them not to worry about him: he will let them know whenever he feels really ill. But a fellow-student of his time in England, who is practising medicine, keeps telling him that he is over-working himself, that he is putting too great a strain on his nervous system. He urges him to take a sea-trip or else cease working for some time. Kwesi tells his doctor friend that he cannot follow his advice: he cannot leave his profession in these days, when every penny we can make is needed. In the old days, he says, people were able to afford long holidays because they had little to do and much to earn; now there is very much to do and very little to earn. No; he must keep at his work: he is afraid if he stops working he will go mad, so he tells himself.  </p>
+<p>Kwesi’s troubles an- beginning to toll on bin) outwardly During his seven or eight year of professional practice the perpetual ordeal of his inner life, the constant struggle between affection and respect for a few. on the one hand, and duty to all. on the other hand, has seldom been suspected by the complacent people surrounding him. He has often thought that he should do his part of the duty lying upon all who have in any way helped to raise the structure of Europeanism. which has absolutely destroyed his peace of mind, to help also to pull down that structure in order to save future generations from such a life as he has been leading, but his thought has not yet been deep enough to enable him to accept the wider duty as of greater importance for the future than the narrower duty he owes to his relatives and elders But now all that has taken place within him is beginning to show its effect on his health He looks ill: his haggard expression is that of a much-worried man. of a man harassed by spirits from whom he has been seeking in vain to escape; yet in good or in bad health, he has to keep up his position in the sphere of professional work. His family are distressed. They ask him if he is suffering from some secret malady. He says he is not. They make all sorts of suggestions and prescribe all sorts of remedies. In the end he asks them not to worry about him: he will let them know whenever he feels really ill. But a fellow-student of his time in England, who is practising medicine, keeps telling him that he is over-working himself, that he is putting too great a strain on his nervous system. He urges him to take a sea-trip or else cease working for some time. Kwesi tells his doctor friend that he cannot follow his advice: he cannot leave his profession in these days, when every penny we can make is needed. In the old days, he says, people were able to afford long holidays because they had little to do and much to earn; now there is very much to do and very little to earn. No; he must keep at his work: he is afraid if he stops working he will go mad, so he tells himself.  </p>
 
 <p>He has not yet solved the problem he brought with him from England, namely, why, although he has found out that in many fundamental respects the European mode of life is lacking in sound- ness, yet. in certain other apparently as fundamental respects he feels constrained to copy that mode of life. In his spare time he has been tracing the European mode of life to its sources; but after groping about among obscure antecedents he has not yet discovered the key to the	to sociology. He likes the subject, the study of which enables him to understand many difficult points about life in society. At length it dawns upon him that the key to the whole problem is the distinction between the essentials and accidents of social life. Following out the implications of this distinction, he discovers that those aspects of life in Europe which he has felt constrained to copy are not essentially European in character, that they partake of the nature of acquired characteristics, that they are later developments in the institutions of society, whilst, on the other hand, those aspects of European life which could not attract him when he was in England are essentially European and require a European psychology to appreciate and maintain them. He understands therefore why he felt ashamed of the snobbishness which had characterised him before he loft home for England; for whilst in matters essential to their life Europeans are natural and spontaneous, he and his friends, in copying such essentials, have been aping Europeans and have therefore been poseurs.  He is satisfied with the position at which he has arrived in his thought, because it enables him to place on a rational basis the conviction he has felt, since his return to England, that the native customs of his people are not savage customs as white men claim, but. on the contrary, are perfectly rational and natural, and. in that respect, on a par with the essentials of European life. Only, then, in to far as the social organisation of his people lacks the accidents of European life can Europeans refuse to regard them as civilised, because the claim of Europe herself to civilisation stands upon these accidents which, being of comparatively recent development, and being hurriedly superimposed on the essentials, are often in violent opposition to such essentials. </p>
 
@@ -431,35 +418,6 @@ A Family Conference
 
  
 
- 
-            </p>
-        </section>
-        
-        <section id="analysis">
-            <h2>Analysis</h2>
-            <h3>Theme of Identity</h3>
-            <p>
-                The novel delves into the complexities of identity for Africans during the colonial period. The protagonist's journey is a reflection of the larger struggle for self-definition and autonomy among colonized peoples.
-            </p>
-            
-            <h3>Nationalism</h3>
-            <p>
-                Casely Hayford's work is a passionate call for African unity and self-governance. The narrative weaves together personal and political liberation, highlighting the interconnectedness of individual and collective freedom.
-            </p>
-            
-            <h3>Representation of the African Diaspora</h3>
-            <p>
-                "Ethiopia Unbound" is also notable for its portrayal of the African diaspora. The novel presents a vision of a global African community bound by shared heritage and common goals, challenging the fragmentation caused by colonialism.
-            </p>
-        </section>
-        
-        <section id="conclusion">
-            <h2>Conclusion</h2>
-            <p>
-                "Ethiopia Unbound" remains a powerful and relevant text in the study of African literature and postcolonial studies. Its themes of identity, nationalism, and diaspora continue to resonate, offering valuable insights into the ongoing struggles for freedom and self-definition.
-            </p>
-        </section>
-    </div>
     <footer>
         <p>&copy; 2024 [Your Name]. All rights reserved.</p>
     </footer>
