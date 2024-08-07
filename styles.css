@@ -1,1 +1,12 @@
+/* Fanti term styling */
+span.term-fanti {
+    color: darkgreen;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+span.term-fanti:hover {
+    color: forestgreen;
+    text-decoration: underline;
+}
 
