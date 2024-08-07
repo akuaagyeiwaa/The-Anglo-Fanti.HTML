@@ -40,17 +40,12 @@
         <h1>The Anglo-Fanti by Kobina Sekyi</h1>
         
         <section id="introduction">
-            <h2>Introduction</h2>
+            <h2>A Short Story</h2>
+            <h3> Part 1</h3>
+            <h4> Boyhood</h4>
+            <h5> Early Days</h5>
             <p>
-               The Anglo-Fanti  
-
-A Short Story  
-
- Part I  
-
-Boyhood  
-
-Early Days 
+                 
 
  <p>Kwesi Onyidzin is a healthy black boy - a Fanti. He is full of life, bubbling over with the energy of little boy-hood: he is fond of playing tricks which his infantile mind prompts him to regard as fun; he is absolutely incapable of sitting -till; he sulks when he is thwarted effectively, cries when he is slapped, and sleeps when he is tired; he likes to imitate everything he sees done; he asks startling and sometimes embarrassing questions; he says quaint things in his own manner; last, but not least, he is always capable of eating and digesting anything that is edible and palatable - in short, he is just an ordinary little boy.</p>  
 
