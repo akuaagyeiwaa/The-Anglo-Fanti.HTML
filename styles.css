@@ -41,7 +41,12 @@ footer {
     color: white;
     margin-top: 20px;
 }
-
+/* Style the text with a tooltip */
+    .tooltip-text {
+      color: darkblue;
+      text-decoration: underline;
+      cursor: pointer;
+    }
 /* Fanti term styling */
 span.term-fanti {
     color: darkgreen;
