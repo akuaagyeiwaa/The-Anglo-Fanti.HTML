@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ethiopia Unbound by Joseph Casely Hayford - Analysis</title>
+    <title>The Anglo-Fanti by Kobina Sekyi - Analysis</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,7 +37,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Ethiopia Unbound by Joseph Casely Hayford</h1>
+        <h1>The Anglo-Fanti by Kobina Sekyi</h1>
         
         <section id="introduction">
             <h2>Introduction</h2>
