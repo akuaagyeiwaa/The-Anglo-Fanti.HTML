@@ -419,7 +419,6 @@ Lessons in the deportment proper to a refined man are taken by Kwesi’s friends
  
 
     <footer>
-        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+        <p>&copy; 2024 [Akua Agyeiwaa Denkyi-Manieson]. All rights reserved.</p>
     </footer>
-</body>
-</html>
+
