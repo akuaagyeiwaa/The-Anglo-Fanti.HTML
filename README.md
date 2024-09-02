@@ -206,7 +206,9 @@ Abei na owo m’!’
 </span>is only one beside the Christian festivals of Easter and Christmas that Kwesi Qnyidzin is allowed to celebrate. That solitary exception is the <span class="term-bakatue">
     <a href="https://en.wikipedia.org/wiki/Bakatue_Festival" target="_blank" title="Bakatue: A festival celebrated in Elmina, Ghana, marking the beginning of the new fishing season with cultural activities.">Bakatue</a>
 </span>
- festival, celebrated at Edna. Of <span class="term-ahuba">
+ festival, celebrated at Edna <div id="location" data-latitude="5.0845" data-longitude="-1.3509">
+        Elmina, Ghana (formerly Edna)
+    </div>. Of <span class="term-ahuba">
     <a href="https://example.com/ahuba-festival" target="_blank" title="Ahuba Festival: A cultural celebration that features traditional music, dance, and rituals, highlighting the heritage of the community.">Ahuba Festival</a>
 </span> he knew nothing at the time of which we write; and even if he had been in districts where the great Fanti festival was celebrated, he would probably have been told that it was heating, because it was part of the national life, and was therefore bad. At any rate, he has often seen fetish priests perform, but has always been told that sort of thing is all nonsense and not worthy of the attention of a young fellow in active process of being Christianised and Anglicised. Again, he has seen the annual observances kept by the companies during the <span class="term-ahuba">
     <a href="https://en.wikipedia.org/wiki/Ahobaa_Festival" target="_blank" title="Ahuba Festival: A cultural celebration that features traditional music, dance, and rituals, highlighting the heritage of the community.">Ahuba Festival</a>
