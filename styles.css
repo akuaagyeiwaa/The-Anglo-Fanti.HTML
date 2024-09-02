@@ -109,3 +109,13 @@ span.term-fanti:hover {
     color: #c9302c; /* Link color on hover */
     text-decoration: underline; /* Underline on hover */
 }
+.term-caned a {
+    color: #5bc0de; /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: normal; /* Normal text weight */
+}
+
+.term-caned a:hover {
+    color: #31b0d5; /* Link color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
