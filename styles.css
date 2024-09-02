@@ -129,4 +129,14 @@ span.term-fanti:hover {
     color: #31b0d5; /* Color when hovering */
     text-decoration: underline; /* Underline on hover */
 }
+.term-ahuba a {
+    color: #FF6347; /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: normal; /* Normal text weight */
+}
+
+.term-ahuba a:hover {
+    color: #FF4500; /* Color when hovering */
+    text-decoration: underline; /* Underline on hover */
+}
 
