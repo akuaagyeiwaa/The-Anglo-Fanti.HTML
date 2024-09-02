@@ -17,4 +17,6 @@ function initMap() {
 
 // Call the function to demonstrate usage
 initMap();
+/ Example: Display the latitude and longitude in an alert box
+alert(`Elmina, Ghana is located at Latitude: ${latitude}, Longitude: ${longitude}`);
 
