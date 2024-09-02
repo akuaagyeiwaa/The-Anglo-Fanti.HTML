@@ -34,6 +34,7 @@
             color: white;
             margin-top: 20px;
         }
+        <script src="script.js"></script>
     </style>
 </head>
 <body>
