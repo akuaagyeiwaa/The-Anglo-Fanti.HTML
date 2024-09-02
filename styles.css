@@ -58,4 +58,14 @@ span.term-fanti:hover {
     color: forestgreen;
     text-decoration: underline;
 }
+.term-europeanisation a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+    font-weight: bold; /* Bold text */
+}
+
+.term-europeanisation a:hover {
+    color: #0056b3; /* Link color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
 
